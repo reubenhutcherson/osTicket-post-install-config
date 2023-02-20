@@ -194,7 +194,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/S9KalEE.jpg" height="80%" width="80%" alt="Azure Free Account"/>
 	
 	
-	<h3>Step 9:   Configure Help Topics
+<h3>Step 9:   Configure Help Topics
 </h3>
 
 -  Make sure you are in admin panel (check top right to see which panel you are in)
@@ -209,5 +209,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/Vh0YvW5.jpg" height="80%" width="80%" alt="Azure Free Account"/>
 	
 	
-Congratulations! You have set up osTicket succesfully! Click [here](https://github.com/reubenhutcherson/ticket-lifecycle) to move on to the final part of this tutorial! 
+Congratulations! You have set up osTicket succesfully! Click [here](https://github.com/reubenhutcherson/ticket-lifecycle) to move on to the final part of this tutorial series! 
 
