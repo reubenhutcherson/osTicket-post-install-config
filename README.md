@@ -161,4 +161,53 @@ This tutorial outlines the post-install configuration of the open-source help de
 	- Select Add User
 
 <p align="center">
-<img src="https://i.imgur.com/1zBfFKL.jpg" height="80%" width="80%" alt="Azure Free Account"/>		
+<img src="https://i.imgur.com/1zBfFKL.jpg" height="80%" width="80%" alt="Azure Free Account"/>
+	
+	
+<h3>Step 8:  Configure Service Level Agreements (SLA)
+</h3>
+
+- Make sure you are in admin panel (check top right to see which panel you are in)
+- Select Manage tab -> SLA -> Add New SLA Plan (We are creating 3)
+	- Name: SEV-A 			
+	- Grace Period: 1
+	- Schedule dropdown menu: 24/7
+	- Select Add Plan
+
+<p align="center">
+<img src="https://i.imgur.com/mwF6Cic.jpg" height="80%" width="80%" alt="Azure Free Account"/>
+	
+- Name: SEV-B
+- Grace Period: 4
+- Schedule dropdown menu: 24/7
+- Select Add Plan
+	
+<p align="center">
+<img src="https://i.imgur.com/3Q8oi3h.jpg" height="80%" width="80%" alt="Azure Free Account"/>
+	
+- Name: SEV-C 
+- Grace Period: 8
+- Schedule dropdown menu: Monday - Friday 8AM - 5PM with U.S Holidays
+- Select Add Plan
+
+<p align="center">
+<img src="https://i.imgur.com/S9KalEE.jpg" height="80%" width="80%" alt="Azure Free Account"/>
+	
+	
+	<h3>Step 9:   Configure Help Topics
+</h3>
+
+-  Make sure you are in admin panel (check top right to see which panel you are in)
+- Select Manage tab -> Help Topics -> Add New Help Topic (We will be adding 4)
+	- Business Critical Outage
+	- Personal Computer Issues
+	- Equipment Request
+	- Password Reset
+- Select Add Topic for each topic
+
+<p align="center">
+<img src="https://i.imgur.com/Vh0YvW5.jpg" height="80%" width="80%" alt="Azure Free Account"/>
+	
+	
+Congratulations! You have set up osTicket succesfully! Click [here](https://github.com/reubenhutcherson/ticket-lifecycle) to move on to the final part of this tutorial! 
+
