@@ -94,5 +94,71 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/eoTUu1t.jpg" height="80%" width="80%" alt="Azure Free Account"/>
   
   
-  
+  <h3>Step 6: Configure Agents</h3>
 
+-  Make sure you are in admin panel (check top right to see which panel you are in)
+- Select the Agents tab -> Add New Agents
+	- Name: Jane Doe
+	- Email : jane.doe@osticket.com
+	- Username: jane.doe
+	- Click set password and uncheck box that says "send the agent a password reset email
+		- Set your password to anything you like
+		- uncheck box that says "require password change at next login
+		- Select set
+		
+<p align="center">
+<img src="https://i.imgur.com/l0XG75R.jpg" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/XSGnlrL.jpg" height="70%" width="70%" alt="Azure Free Services"/>
+</p>
+
+- Select Access tab 
+	- Under Primary Department 
+		- Select department dropdown menu -> System Administrators
+		- Select Role dropdown menu -> Supreme Admin
+	- Extended Accesss 
+		- Select Department -> Support -> Add -> Supreme Admin
+- Select Teams tab
+	- Select team dropdown menu -> Level II Support
+	- Select Add
+- Select Create	
+
+	
+<p align="center">
+<img src="https://i.imgur.com/L8CaX8T.jpg" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/vYMfiX5.jpg" height="70%" width="70%" alt="Azure Free Services"/>
+</p>
+
+- Create another agent named John.
+	- Follow same steps as above except make some changes to Primary Department
+		- Select department dropdown menu -> Support
+		- Select Role dropdown menu -> View only
+	- Extended Accesss 
+		- Select Department -> Support -> Save Changes
+		
+<p align="center">
+<img src="https://i.imgur.com/Pm9TGyW.jpg" height="70%" width="70%" alt="Azure Free Account"/><img src="https://i.imgur.com/bJI6W4U.jpg" height="70%" width="70%" alt="Azure Free Account"/>  
+</p>
+ 
+
+<h3>Step 7: Configure Users
+</h3>
+
+- Make sure you are in Agent panel (check top right to see which panel you are in)
+	- If the top right says "admin" you are in the agent panel
+	
+<p align="center">
+<img src="https://i.imgur.com/u3eSpGW.jpg" height="80%" width="80%" alt="Azure Free Account"/>		
+	
+- Select Users tab to create user
+	- Email Address: Karen@osticket.com
+	- Full Name - Karen Karen
+	- Select Add User
+	
+<p align="center">
+<img src="https://i.imgur.com/kCvY5od.jpg" height="80%" width="80%" alt="Azure Free Account"/>			
+	
+ - Select user tab again to create another user
+	- Email Address: Ken@osticket.com
+	- Full Name - Ken Ken
+	- Select Add User
+
+<p align="center">
+<img src="https://i.imgur.com/1zBfFKL.jpg" height="80%" width="80%" alt="Azure Free Account"/>		
