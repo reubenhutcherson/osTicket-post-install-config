@@ -39,6 +39,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>Step 1: Open osTicket and log in using credentials from installation tutorial </h3>
 
 - If you need help installing osTicket, please see my tutorial [here](https://github.com/reubenhutcherson//osTicket-prereqs-installation)
+- You can sign in using this link: http://localhost/osTicket/scp) 
 
 <p align="center">
 <img src="https://i.imgur.com/0xN5pmy.jpg" height="80%" width="80%" alt="Azure Free Account"/>	
