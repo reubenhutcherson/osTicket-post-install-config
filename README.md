@@ -210,5 +210,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/Vh0YvW5.jpg" height="80%" width="80%" alt="Azure Free Account"/>
 	
 	
-Congratulations! You have set up osTicket succesfully! Click [here](https://github.com/reubenhutcherson/ticket-lifecycle) to move on to the final part of this tutorial series! 
+Congratulations! You have set up osTicket succesfully! Click [here](https://github.com/reubenhutcherson/osTicket-ticket-lifecycle) to move on to the final part of this tutorial series! 
 
